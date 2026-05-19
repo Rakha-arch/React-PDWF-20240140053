@@ -47,7 +47,7 @@ const App = () => {
             </div>
             
             <h2 className="text-4xl font-extrabold leading-tight mb-6 tracking-tight">
-              {isLoginView ? "Akses Dasbor Manajemen Anda." : "Mari Bergabung Bersama Kami."}
+              {isLoginView ? "WELCOME BRAYY." : "Mari Bergabung Bersama Kami."}
             </h2>
             <p className="text-indigo-100/80 text-base leading-relaxed max-w-sm">
               {isLoginView 
